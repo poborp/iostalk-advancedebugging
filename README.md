@@ -2,6 +2,7 @@
 
 Advance Debugging example with Pythagorean Theorem
 
+Here the [pdf](https://github.com/poborp/iostalk-advancedebugging/blob/master/Resources/Advance%20Debugging.pdf) with the presentation
 
 ## Screenshot
 
